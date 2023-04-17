@@ -106,7 +106,7 @@ _To execute the following commands, open a CMD, Bash, or Powershell window by na
 2. Clone the repository: For this step, you need Git installed. Alternatively, you can download the zip file by clicking the button at the top of this page ☝️
 
 ```bash
-git clone https://github.com/Torantulino/Auto-GPT.git
+git clone https://github.com/nkotak/Auto-GPT.git
 ```
 
 3. Navigate to the directory where the repository was downloaded
